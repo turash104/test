@@ -17,7 +17,7 @@ print(sd.query_devices())
 # the following name is only used as an example
 mic_name = "Jabra EVOLVE 65"
 
-# Sample rate is how often values are recorded
+# Sample rate is how often values are recorded, may need to be adjusted
 sample_rate = 4800
 
 # Chunk is like a buffer. It stores 2048 samples (bytes of data)
