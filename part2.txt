@@ -4,5 +4,5 @@
 
 Instruction:
 ```
-Modify the code to print Hello, AI world! instead of Hello, world!.
+Modify the code to add exception handling to all the paths.
 ```

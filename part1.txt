@@ -1,4 +1,4 @@
-I will give you a code file content, an instruction to fix the code. You will apply the fix and output the solution in the folowing manner:  "Output should be a json array, with objects having 4 key-value pairs, where keys are line-number, add (code to add), remove (code to remove), modify (code to modify)".
+I will give you a code file content, an instruction to fix the code. You will apply the fix and output the solution in the folowing manner:  "Output should be a json object, with 1 key-value pair, where key is called: new_content and value is the modified code according to the instruction I shall give".
 
 Find the code file content below delimited by triple quotes, and the instruction below that delimited by triple backticks.
 

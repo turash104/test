@@ -1,6 +1,7 @@
+
 import speech_recognition as sr
 
-mic_name = "Jabra EVOLVE 65"
+mic_name = input('Enter the microphone name: ')
 sample_rate = 4800
 chunk_size = 2048
 
